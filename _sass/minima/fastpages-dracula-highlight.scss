@@ -17,8 +17,8 @@ $foreground: #f0f0f0; // Foreground
     color: $foreground;
 }
 
-.language-python + .language-plaintext code { background-color: white !important; }
-.language-python + .language-plaintext pre  { background-color: white !important; }
+.language-python + .language-plaintext code { background-color: $background !important; }
+.language-python + .language-plaintext pre  { background-color: $background !important; }
 
 // for Jupyter Notebook HTML Code Cells modified from https://www.fast.ai/public/css/hyde.css
 
