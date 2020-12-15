@@ -454,7 +454,7 @@ pre code { font-size: 15px !important; }
 .highlight .k { color: #008000; font-weight: bold; }
 
 /* Keyword */
-.highlight .o { color: #666666; }
+.highlight .o { color: #aa22ff; }
 
 /* Operator */
 .highlight .ch { color: #408080; font-style: italic; }
@@ -523,7 +523,7 @@ pre code { font-size: 15px !important; }
 .highlight .kt { color: #B00040; }
 
 /* Keyword.Type */
-.highlight .m { color: #666666; }
+.highlight .m { color: #008800; }
 
 /* Literal.Number */
 .highlight .s { color: #BA2121; }
@@ -571,19 +571,19 @@ pre code { font-size: 15px !important; }
 .highlight .w { color: #bbbbbb; }
 
 /* Text.Whitespace */
-.highlight .mb { color: #666666; }
+.highlight .mb { color: #008800; }
 
 /* Literal.Number.Bin */
-.highlight .mf { color: #666666; }
+.highlight .mf { color: #008800; }
 
 /* Literal.Number.Float */
-.highlight .mh { color: #666666; }
+.highlight .mh { color: #008800; }
 
 /* Literal.Number.Hex */
-.highlight .mi { color: #666666; }
+.highlight .mi { color: #008800; }
 
 /* Literal.Number.Integer */
-.highlight .mo { color: #666666; }
+.highlight .mo { color: #008800; }
 
 /* Literal.Number.Oct */
 .highlight .sa { color: #BA2121; }
@@ -643,7 +643,7 @@ pre code { font-size: 15px !important; }
 .highlight .vm { color: #19177C; }
 
 /* Name.Variable.Magic */
-.highlight .il { color: #666666; }
+.highlight .il { color: #008800; }
 
 /* Literal.Number.Integer.Long */
 p code { font-size: 19px; }
